@@ -1,0 +1,4 @@
+CSS selector using class and id=>css=tag#id;
+CSS selector using tag and class=>css=tag.class;
+CSS selector using tag and attribute=>css=tag[attribute=value]
+CSS selector using tag and class and attribut=>css=tag.class[attribute=value]
